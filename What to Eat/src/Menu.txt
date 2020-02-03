@@ -1,0 +1,3 @@
+tomatoFriedEggs 10 egg:2 tomato:2
+friedEggs 5 egg:1
+watermelonSlice 5 watermelon:0.2

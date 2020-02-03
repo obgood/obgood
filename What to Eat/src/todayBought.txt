@@ -1,0 +1,4 @@
+tomato 3
+tomato 2
+egg 6
+watermelon 1

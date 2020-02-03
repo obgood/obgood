@@ -1,0 +1,5 @@
+protein vegetables fruit
+tomato 0 3 0
+apple 0 0 2
+egg 2 0 0
+watermelon 0 0 10
